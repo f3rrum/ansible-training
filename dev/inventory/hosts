@@ -2,6 +2,7 @@
 lb01
 
 [appserver]
+app
 app01
 app02
 
