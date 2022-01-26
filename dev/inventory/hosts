@@ -1,0 +1,12 @@
+[loadbalancer]
+lb01
+
+[appserver]
+app01
+app02
+
+[database]
+db
+
+[control]
+control
