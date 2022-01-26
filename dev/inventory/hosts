@@ -8,5 +8,5 @@ app02
 [database]
 db
 
-[control-host]
+[controlgroup]
 control ansible_connection=local
