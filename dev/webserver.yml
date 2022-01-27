@@ -18,7 +18,7 @@
         notify: restart apache2
 
       - name: copy demo app source
-        copy: src=demo/app/ dest=/var/ww/demo mode=0755
+        copy: src=demo/app/ dest=/var/www/demo mode=0755
         notify: restart apache2
 
       - name: copy vhost config for apache
