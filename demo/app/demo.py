@@ -1,5 +1,5 @@
 from flask import Flask
-from flask_module import SQLAlchemy
+from flask import SQLAlchemy
 import os, socket
 
 app = Flask(__name__)
